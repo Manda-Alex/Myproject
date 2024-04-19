@@ -1,0 +1,30 @@
+#zonse{
+    background-color: #ff8177;
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+
+}
+.heading{
+    font-size:larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#yoyamba{
+    color: #ff8;
+    font-size: 1.5rem;
+}
+#yachiwiri{
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+#yachitatu{
+    color:navajowhite;
+    padding-left: 3%;
+
+}
+#yachinayi{
+    padding-left: 5%;
+    color:#632d4c
+}
+#yomaliza{
+    font-size: 2rem;
+}
